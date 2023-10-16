@@ -1,0 +1,5 @@
+<ArithmExpression>
+    <operation operation="ArithmConst">
+        <value>12.0</value>
+    </operation>
+</ArithmExpression>

@@ -1,0 +1,12 @@
+<RegExpression>
+    <operation operation="RegexpBinaryOperation">
+        <left operation="RegexpConst">
+            <value>regex</value>
+        </left>
+        <right operation="RegexpConst">
+            <value>1</value>
+        </right>
+        <operator>UNION</operator>
+    </operation>
+</RegExpression>
+

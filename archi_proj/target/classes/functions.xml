@@ -1,0 +1,11 @@
+<FunctionExpression>
+    <operation operation="FunctionBinaryOperation">
+        <left operation="FunctionConst">
+            <value>33.0</value>
+        </left>
+        <right operation="FunctionConst">
+            <value>6.66</value>
+        </right>
+        <operator>MULTIPLY</operator>
+    </operation>
+</FunctionExpression>
